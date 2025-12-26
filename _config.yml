@@ -1,12 +1,8 @@
-
-
+# Site settings
 title: Shakhrizoda Bobojonova
 description: Backend Developer | Python
-author: Shakhrizoda
-theme: jekyll-theme-cayman
-url: "https://sshariaa.github.io"
+baseurl: "" # leave empty for root
+url: "https://sshariaa.github.io" # replace <your-username> with your GitHub username
 
-
-github_username: sshariaa.100
-email: sshariaa.1008@gmail.com
-
+# Theme settings
+theme: minimal
