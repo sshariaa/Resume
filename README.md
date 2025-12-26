@@ -9,32 +9,32 @@ title: Shakhrizoda Bobojonova
 
 ---
 
-## Skills
-- Python
-- Django
-- REST APIs
-- Git & GitHub
+## 🛠 Skills
+- 🐍 Python
+- 🌐 Django
+- 🔗 REST APIs
+- 🗂 Git & GitHub
 
 ---
 
-## Languages
-- Uzbek — Native
-- English — Advanced
-- Korean — Intermediate
+## 🗣 Languages
+- 🇺🇿 Uzbek — Native
+- en English — Advanced
+- 🇰🇷 Korean — Intermediate
 
 ---
 
-
-
----
-
-## Education
-- **High School Diploma** — Khorezm School, 2025
+## 🎓 Education
+- 🎓 **High School ** — Khorezm School,
 
 ---
 
-## Projects
-- **Telegram Bot API**: Backend development for product and user management.
-- **Animal care Website**: Created using Jekyll and GitHub Pages with custom theme.
+## 💻 Projects
+- 🤖 **Telegram Bot API**: Backend development for product and user management.
+- 🐾 **Animal Care Website**: Created using Jekyll and GitHub Pages with custom theme.
 
 ---
+
+## 📫 Contact
+- ✉️ Email: sshariaa.1008@gmail.com
+- 🌐 GitHub: [https://github.com/<sshariaa>](https://github.com/<sshariaa>)
