@@ -2,3 +2,13 @@ remote_theme: pages-themes/cayman
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: Shakhrizoda Bobojonova
+description: Backend Developer | Python
+author: Shakhrizoda
+theme: jekyll-theme-cayman
+url: "https://sshariaa.github.io"
+
+
+github_username: sshariaa.100
+email: sshariaa.1008@gmail.com
+
