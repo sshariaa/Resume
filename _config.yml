@@ -1,40 +1,5 @@
-title: Shahrizoda Bobojonova
-description: Backend Developer | Python
-author: Shakhrizoda
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
-url: 'https://sshariaa.github.io/Resume/'
-baseurl: "/resume"
-
-# Social links / accounts
-github_username: sshariaa
-Instagram: https://www.instagram.com/_sshariaa
-telegram: https://t.me/sshariaa
-
-# Custom colors
-primary_color: "#1E90FF"
-
-# Resume sections
-resume:
-  education:
-    - degree: "High School"
-      school: "Khorezm School"
-
-  skills:
-    - Python
-    - Django
-    - REST APIs
-    - Git & GitHub
-  languages:
-    - language: "English"
-      level: "Advanced"
-    - language: "Uzbek"
-      level: "Native"
-    - language: "Korean"
-      level: "Intermediate"
-  projects:
-    - name: "Telegram Bot API"
-      description: "Created backend for Telegram bot to manage products and users."
-    - name: "Animal care Website"
-      description: "A website dedicated to helping pet owners and animal lovers keep their furry, feathered, and scaly friends happy and healthy."
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [The title of your site]
+description: [A short description of your site's purpose]
